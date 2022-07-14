@@ -16,12 +16,13 @@
 - [ ] Probé en un mds.
 - [ ] Probé en más de un dispositivo.
 - [ ] Se agregaron los Unit Test correspondientes.
-- [ ] Verifiqué que mis pruebas unitarias funcionaran localmente.
+- [ ] Se probo en distintas versiones del sistema operativo, el target menor y mayor que soportan nuestras apps
 - [ ] Probé que esté fusionado con lo último en desarrollo.
-- [ ] Probé mis cambios con cambios de configuración como rotación, sin conexión, manejo de errores del marco.
-- [ ] Usé herramientas de accesibilidad.
+- [ ] Probé mis cambios rotando la pantalla.
+- [ ] Probé mis cambios sin conexión a internet.
 - [ ] Dejé código comentado.
-- [ ] En caso de incluir textos, están traducidos al inglés y portugués.
+- [ ] En caso de incluir textos, están traducidos al portugués.
+- [ ] Usé herramientas de accesibilidad.
 
 
 ## Screenshots / Gifs
