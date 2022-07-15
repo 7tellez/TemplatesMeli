@@ -1,12 +1,5 @@
 
-## Descripción
-
-[Completar descripción sobre el desarrollo hecho.]
-
-
-## Tipo
-
-- [ ] Feature.
+## hola
 - [ ] Fix.
 - [ ] Release 
 
