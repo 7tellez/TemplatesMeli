@@ -12,7 +12,7 @@
 
 ## General Checklist (checkear solo si aplica)
 
-- [ ] Modifiqué el [changelog]
+- [ ] Agregué los cambios al Changelog
 - [ ] Probé en un mds.
 - [ ] Probé en más de un dispositivo.
 - [ ] Se agregaron los Unit Test correspondientes.
@@ -22,7 +22,9 @@
 - [ ] Probé mis cambios sin conexión a internet.
 - [ ] Dejé código comentado.
 - [ ] En caso de incluir textos, están traducidos al portugués.
-- [ ] Usé herramientas de accesibilidad.
+- [ ] Verifiqué la accesibilidad
+
+
 
 
 ## Screenshots / Gifs
