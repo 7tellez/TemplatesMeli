@@ -24,9 +24,7 @@
 - [ ] En caso de incluir textos, están traducidos al portugués.
 - [ ] Verifiqué la accesibilidad
 
-- [ ] I tested my changes by rotating the screen.
-- [ ] I tried my changes without internet connection.
-- [ ] It was tested in different versions of the operating system, the minor and major target that our apps support
+
 
 
 ## Screenshots / Gifs
