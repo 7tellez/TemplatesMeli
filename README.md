@@ -5,7 +5,7 @@ This is the repository of the MercadoLibre's MLMapComponent Program iOS library.
 
 - [About MLMapComponent](#about-MLMapComponent)
 - [Getting started](#getting-started)
-  - [Documentation](#documentation)
+- [Documentation](#documentation)
 - [Developing and contribuing](#developing-and-contribuing)
 - [Contributing](#contributing)
 - [Support](#support)
