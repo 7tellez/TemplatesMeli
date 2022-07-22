@@ -13,9 +13,6 @@ This is the repository of the MercadoLibre's MLMapComponent Program iOS library.
 - [Author](#author)
 
 
-
-
-
 ## About MLMapComponent
 
 MLMapComponent is created based on [MapKit](https://www.apple.com/co/maps/), which is an API available on iOS devices that makes it easy for us to view maps.
@@ -41,12 +38,6 @@ If you need to know more about MLMapComponent and know in deep about our tool, c
 | List of Query Params | [Fury Docs iOS Project](https://furydocs.io/webkit-ios/latest/guide/#/query-params) |
 | Bridge Command's | [Fury Docs Bridge JS](https://furydocs.io/mobile-webkit/latest/guide/#/commands) |
 
-
-## Developing and contributing
-
-#### Testing
-Although at the beginning you will surely use the emulator for the initial tests, it is very important to test on a real device to close the test cycle since you can see the real behavior of your application.
-To test your implementations, follow these [steps](https://furydocs.io/webkit-ios/latest/guide/#/testing).
 
 ## Contributing
 If you would like to contribute to our project, feel free to look around on [contribution guidelines](/CONTRIBUTING.md)
