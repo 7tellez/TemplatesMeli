@@ -19,7 +19,16 @@ At Mercado Libre we are optimizing the way in which the user can see where they 
 
 ## Getting started
 
-The first step, you'll need to download the [bundler](https://bundler.io/) and then run `bundle install` on the root directory. After that you'll need to run `bundle exec pod install` to download all the dependencies required of our project. (If shows an error running `bundle exec pod install` try run `bundle exec pod install --repo-update`)
+The first step, you'll need to download the [bundler](https://bundler.io/) and then run `bundle install` on the root directory.
+
+To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod "MLMapComponent"
+```
+
+After that you'll need to run `bundle exec pod install` to download all the dependencies required of our project. (If shows an error running `bundle exec pod install` try run `bundle exec pod install --repo-update`)
  
 > See the complete documentation about Getting started in [Fury Docs](-PENDIENTE-)
 
@@ -47,10 +56,16 @@ If you need support, start by checking [documentation](#documentation), or conta
 ## Contact and Support
 | Description | Link |
 | -- | -- |
-| `Migration to WebKit 2 Channel @Slack` | [#temp-webkit2-migration @Slack](https://slack.com/app_redirect?channel=C03DWFASA7K) |
-| `Webviews Help Channel @Slack` | [#help-channel @Slack](https://slack.com/app_redirect?channel=C013FQBH42V) |
+| `Arq MeliComps-ios Channel @Slack` | [#meli-comps-ios @Slack](https://slack.com/app_redirect?channel=C02KC9MM26Q) |
+| `Arq Help Channel @Slack` | [#Arq-Mobile @Slack](https://slack.com/app_redirect?channel=CSTJ1UPM3) |
 | Request access to the repo | [Shield](https://shield.adminml.com/account?c=2029) |
 
+
 ## Author
-Arquitectura Mobile - WebKit mobile
-[mobile-webkit@mercadolibre.com](mailto:mobile-webkit@mercadolibre.com)
+Arquitectura Mobile - Meli Components mobile
+Pablo Igounet, pablo.igounet@mercadolibre.com
+Emiliano Mesa, emiliano.mesa@mercadolibre.com
+
+## License
+
+MLMapComponent is available under the MIT license. See the LICENSE file for more info.
