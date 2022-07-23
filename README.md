@@ -63,6 +63,8 @@ If you need support, start by checking [documentation](#documentation), or conta
 
 ## Author
 Arquitectura Mobile - Meli Components mobile
+| Contributor | Email |
+| -- | -- |
 | Pablo Igounet | pablo.igounet@mercadolibre.com |
 | Emiliano Mesa | emiliano.mesa@mercadolibre.com |
 
