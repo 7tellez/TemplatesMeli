@@ -37,12 +37,9 @@ If you need to know more about MLMapComponent and know in deep about our tool, c
 
 | Documentation | Link |
 | -- | -- |
-| Webviews | [Nordic](https://nordic.adminml.com/docs/webview) |
-| WebKit| [Wiki Arquitectura](https://sites.google.com/mercadolibre.com/mobile/arquitectura/libs-utilitarias/webkit) |
-| How to WebKit 2 | [Learn More](https://sites.google.com/mercadolibre.com/mobile/arquitectura/libs-utilitarias/webkit2/how-to-webkit-2) |
-| Adding Webkit to your project | [Fury Docs iOS Project](https://furydocs.io/webkit-ios/latest/guide/#/getting-started?id=installation) |
+| Adding PENDIENTE to your project | [Fury Docs iOS Project](https://furydocs.io/webkit-ios/latest/guide/#/getting-started?id=installation) |
 | Running Locals Fends | [Wiki](https://furydocs.io/webkit-ios/latest/guide/#/testing) |
-| When and Why use Webviews | [Wiki](https://sites.google.com/mercadolibre.com/mobile/arquitectura/libs-utilitarias/webkit/cu%C3%A1ndo-y-porqu%C3%A9-usar-webviews) |
+| When and Why use PENDIENTE | [Wiki](https://sites.google.com/mercadolibre.com/mobile/arquitectura/libs-utilitarias/webkit/cu%C3%A1ndo-y-porqu%C3%A9-usar-webviews) |
 | List of Query Params | [Fury Docs iOS Project](https://furydocs.io/webkit-ios/latest/guide/#/query-params) |
 | Bridge Command's | [Fury Docs Bridge JS](https://furydocs.io/mobile-webkit/latest/guide/#/commands) |
 
