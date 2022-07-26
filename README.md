@@ -30,18 +30,19 @@ pod "MLMapComponent"
 
 After that you'll need to run `bundle exec pod install` to download all the dependencies required of our project. (If shows an error running `bundle exec pod install` try run `bundle exec pod install --repo-update`)
  
-> See the complete documentation about Getting started in [Fury Docs](-PENDIENTE-)
+> See the complete documentation about Getting started in [Fury Docs](https://furydocs.io/Mobile-Maps-iOS/)
 
 ### Documentation
 If you need to know more about MLMapComponent and know in deep about our tool, check on:
 
 | Documentation | Link |
 | -- | -- |
-| Adding PENDIENTE to your project | [Fury Docs iOS Project](https://furydocs.io/webkit-ios/latest/guide/#/getting-started?id=installation) |
-| Running Locals Fends | [Wiki](https://furydocs.io/webkit-ios/latest/guide/#/testing) |
-| When and Why use PENDIENTE | [Wiki](https://sites.google.com/mercadolibre.com/mobile/arquitectura/libs-utilitarias/webkit/cu%C3%A1ndo-y-porqu%C3%A9-usar-webviews) |
-| List of Query Params | [Fury Docs iOS Project](https://furydocs.io/webkit-ios/latest/guide/#/query-params) |
-| Bridge Command's | [Fury Docs Bridge JS](https://furydocs.io/mobile-webkit/latest/guide/#/commands) |
+| Adding MLMapComponent to your project | [Fury Docs iOS Project](https://furydocs.io/Mobile-Maps-iOS/latest/guide/#/getting-started) |
+| About | [Fury Docs iOS Project](https://furydocs.io/Mobile-Maps-iOS/latest/guide/#/about) |
+| Maps | [Wiki](https://github.com/mercadolibre/mobile-ios_maps/wiki/Map) |
+| Map Pins| [Wiki](https://github.com/mercadolibre/mobile-ios_maps/wiki/Map-Pins) |
+| Carousel | [Wiki](https://github.com/mercadolibre/mobile-ios_maps/wiki/Carousel) |
+| Search Bar | [Wiki](https://github.com/mercadolibre/mobile-ios_maps/wiki/SearchBar) |
 
 
 ## Contributing
