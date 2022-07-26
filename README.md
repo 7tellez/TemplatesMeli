@@ -49,7 +49,7 @@ If you need to know more about MLMapComponent and know in deep about our tool, c
 If you would like to contribute to our project, feel free to look around on [contribution guidelines](/CONTRIBUTING.md)
 
 ## Support
-If you need support, start by checking [documentation](#documentation), or contact us at [helps channels](#contact-us)
+If you need support, start by checking [documentation](#author), or contact us at [helps channels](#contact-and-support)
 
 ## Contact and Support
 | Description | Link |
