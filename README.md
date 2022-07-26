@@ -14,7 +14,7 @@ This is the repository of the MercadoLibre's MLMapComponent Program iOS library.
 
 ## About MLMapComponent
 
-MLMapComponent is created based on [MapKit](https://www.apple.com/co/maps/), which is an API available on iOS devices that makes it easy for us to view maps.
+MLMapComponent is created based on [MapKit](https://developer.apple.com/documentation/mapkit?language=objc) and [CoreLocation](https://developer.apple.com/documentation/corelocation/), which is an API available on iOS devices that makes it easy for us to view maps.
 At Mercado Libre we are optimizing the way in which the user can see where they are going to get their product or service, through different functionalities such as zoom, annotations, location, searches, directions and a carousel that makes us offer a unique experience.
 
 ## Getting started
